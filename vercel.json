@@ -1,6 +1,6 @@
 {
   "buildCommand": "cd listing-ai-demo && npm install && npm run build",
-  "outputDirectory": "listing-ai-demo/.next",
+  "outputDirectory": "listing-ai-demo/out",
   "installCommand": "cd listing-ai-demo && npm install",
   "framework": null
 }
